@@ -12,3 +12,5 @@ y <- rnorm(500)
 =======
 # an alternative way forward
 >>>>>>> alternative-develop
+
+#some more work for github
